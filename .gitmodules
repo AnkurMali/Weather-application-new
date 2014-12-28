@@ -1,0 +1,3 @@
+[submodule "public/jQuery-Tags-Input"]
+	path = public/jQuery-Tags-Input
+	url = ../Weather-Application-master/public/jQuery-Tags-Input/
